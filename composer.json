@@ -2,13 +2,13 @@
   "name": "xmpush/mipush",
   "description": "小米推送 sdk",
   "license": "MIT",
+  "version": "1.0.1",
   "authors": [
     {
       "name": "积木",
       "email": "1055441929@qq.com"
     }
   ],
-  "minimum-stability": "stable",
   "require": {
     "php": ">=5.6"
   },
