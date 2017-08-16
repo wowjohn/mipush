@@ -1,0 +1,19 @@
+{
+  "name": "mipush/xmpush",
+  "description": "小米推送sdk",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "积木",
+      "email": "18256065285@139.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.6"
+  },
+  "autoload": {
+    "psr-4": {
+      "xmpush\\": "xmpush/"
+    }
+  }
+}
